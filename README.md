@@ -1,2 +1,0 @@
-# Almutnyz
-Cashier 
